@@ -1,18 +1,6 @@
 <h1 align="center">Hi, Welcome to my Profile 👋</h1>
 <h3 align="center">Senior Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-personal-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
 ## 📚 About Me
 
 I am a seasoned and versatile Senior Full Stack Developer with over 10 years of experience in the industry. I have a strong background in designing, developing, and deploying robust and scalable web applications using a wide range of technologies and frameworks. I'm passionate about staying up-to-date with the latest industry trends and continuously improving my skillset to deliver high-quality and innovative solutions.
@@ -76,6 +64,8 @@ I am a seasoned and versatile Senior Full Stack Developer with over 10 years of 
 Feel free to connect with me on:
 <p>
   Skype: live:.cid.bcbf401a16734149
+</p>
+<p>
   Whatsapp: +1 (312) 282-6874
 </p>
 
